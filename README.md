@@ -30,7 +30,7 @@ Demo <a href="http://joro.me/demos/backie/" target="_blank">here</a>.
         
 6. You're all set! Your final code should look like:
 
-        <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script type="text/javascript" src="path-tojquery-latest.min.js"></script>
         <script type="text/javascript" src="path-to/backie.js"></script>
         <script>
             $(document).ready( function() {
@@ -59,7 +59,7 @@ Basically, the plugin is designed to work without any additional configuration, 
         
 Here is an example how your final code should look like with some customizations.
 
-        <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script type="text/javascript" src="path-to/jquery-latest.min.js"></script>
         <script type="text/javascript" src="path-to/backie.js"></script>
         <script>
             $(document).ready( function() {
