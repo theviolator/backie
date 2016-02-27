@@ -30,7 +30,7 @@ Demo <a href="http://joro.me/demos/backie/" target="_blank">here</a>.
         
 6. You're all set! Your final code should look like:
 
-        <script type="text/javascript" src="path-tojquery-latest.min.js"></script>
+        <script type="text/javascript" src="path-to/jquery-latest.min.js"></script>
         <script type="text/javascript" src="path-to/backie.js"></script>
         <script>
             $(document).ready( function() {
